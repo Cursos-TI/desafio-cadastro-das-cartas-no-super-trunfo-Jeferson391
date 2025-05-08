@@ -120,7 +120,7 @@ printf("Area1: %.2f - é maior que Area2: %.2f ? %d\n", Area1, Area2,
                                                         (Area1 > Area2));
 
 printf("PIB1: %.2f - é maior que PIB2: %.2f ? %d\n", PIB1, PIB2 , 
-                                                    (Area1 > Area2));
+                                                    (PIB1 > PIB2));
 
 printf("NpontosTuristicos1: %d - é maior que NpontosTuristicos2: %d ? %d\n", NPontosTuristicos1, NPontosTuristicos2, 
                                                                             (NPontosTuristicos1 > NPontosTuristicos2));
